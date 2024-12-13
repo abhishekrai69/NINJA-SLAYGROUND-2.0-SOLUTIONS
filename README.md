@@ -22,16 +22,14 @@ Day 9 (26 Nov) : Second Largest Number✅
 
 Day 10 (27 Nov) : Highest / Lowest Frequency Elements✅
 
-Day 10 (27 Nov) : Highest / Lowest Frequency Elements✅
+Day 11 (28 Nov) : Two Sum
 
-Day 11 (28 Nov) : Two Sum✅
+Day 12 (29 Nov) : Add One To Number
 
-Day 12 (29 Nov) : Add One To Number✅
+Day 13 (30 Nov) : Binary Search
 
-Day 13 (30 Nov) : Binary Search✅
+Day 14 (01 Dec) : Sort An Array of 0s, 1s and 2s
 
-Day 14 (01 Dec) : Sort An Array of 0s, 1s and 2s✅
+Day 15 (02 Dec) : Implement Lower Bound
 
-Day 15 (02 Dec) : Implement Lower Bound✅
-
-Day 16 (03 Dec) : Valid Parentheses✅
+Day 16 (03 Dec) : Valid Parentheses
