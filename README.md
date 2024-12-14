@@ -22,7 +22,7 @@ Day 9 (26 Nov) : Second Largest Number✅
 
 Day 10 (27 Nov) : Highest / Lowest Frequency Elements✅
 
-Day 11 (28 Nov) : Two Sum
+Day 11 (28 Nov) : Two Sum✅
 
 Day 12 (29 Nov) : Add One To Number
 
