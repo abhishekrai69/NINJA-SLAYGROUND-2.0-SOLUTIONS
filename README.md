@@ -24,7 +24,7 @@ Day 10 (27 Nov) : Highest / Lowest Frequency Elements✅
 
 Day 11 (28 Nov) : Two Sum✅
 
-Day 12 (29 Nov) : Add One To Number
+Day 12 (29 Nov) : Add One To Number✅
 
 Day 13 (30 Nov) : Binary Search
 
