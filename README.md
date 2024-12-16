@@ -1,6 +1,5 @@
-🎯<h1> NINJA-SLAYGROUND-2.0 <h1> 🎯
-<br>
-NINJA SLAYGROUND 2.0 : 21 Day Coding Challenge (SOLUTION)✍️
+
+<h1> NINJA SLAYGROUND 2.0 : 21 Day Coding Challenge (SOLUTION)✍️</h1>
 
 Day 1 (18 Nov) : Switch Case statement✅
 
