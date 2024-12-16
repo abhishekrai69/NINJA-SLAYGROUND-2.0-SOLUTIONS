@@ -1,4 +1,4 @@
-🎯 NINJA-SLAYGROUND-2.0 🎯
+🎯<B> NINJA-SLAYGROUND-2.0 <B> 🎯
 <br>
 NINJA SLAYGROUND 2.0 : 21 Day Coding Challenge (SOLUTION)✍️
 
@@ -26,7 +26,7 @@ Day 11 (28 Nov) : Two Sum✅
 
 Day 12 (29 Nov) : Add One To Number✅
 
-Day 13 (30 Nov) : Binary Search
+Day 13 (30 Nov) : Binary Search✅
 
 Day 14 (01 Dec) : Sort An Array of 0s, 1s and 2s
 
