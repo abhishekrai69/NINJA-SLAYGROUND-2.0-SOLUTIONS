@@ -27,7 +27,7 @@ Day 12 (29 Nov) : Add One To Number✅
 
 Day 13 (30 Nov) : Binary Search✅
 
-Day 14 (01 Dec) : Sort An Array of 0s, 1s and 2s
+Day 14 (01 Dec) : Sort An Array of 0s, 1s and 2s✅
 
 Day 15 (02 Dec) : Implement Lower Bound
 
