@@ -35,7 +35,7 @@ Day 16 (03 Dec) : Valid Parentheses✅
 
 Day 17 (04 Dec) : Implement Upper Bound✅
 
-Day 18 (05 Dec) : Spiral Matrix
+Day 18 (05 Dec) : Spiral Matrix✅
 
 Day 19 (06 Dec) : Zero Matrix
 
