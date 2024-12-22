@@ -37,7 +37,7 @@ Day 17 (04 Dec) : Implement Upper Bound✅
 
 Day 18 (05 Dec) : Spiral Matrix✅
 
-Day 19 (06 Dec) : Zero Matrix
+Day 19 (06 Dec) : Zero Matrix✅
 
 Day 20 (07 Dec) : Pascal's Triangle
 
