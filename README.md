@@ -39,6 +39,6 @@ Day 18 (05 Dec) : Spiral Matrix✅
 
 Day 19 (06 Dec) : Zero Matrix✅
 
-Day 20 (07 Dec) : Pascal's Triangle
+Day 20 (07 Dec) : Pascal's Triangle✅
 
-Day 21 (08 Dec) : Number of Inversions
+Day 21 (08 Dec) : Number of Inversions✅
